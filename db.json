@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "Przegląd Laguny",
+      "date": "2022-01-08",
+      "reminder": true,
+      "id": "wtWBvB4"
+    },
+    {
+      "text": "Szczepienie Józio i Ignac",
+      "date": "2022-01-10",
+      "reminder": true,
+      "id": "uda39q5"
+    }
+  ]
+}
